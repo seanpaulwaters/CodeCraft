@@ -45,7 +45,7 @@ To predict video engagement:
 
 -   Distribution of target variable.
 -   Correlation between features.
--   Feature importance and selection. ... (other EDA highlights as detailed in the notebook)
+-   other EDA highlights as detailed in the notebook
 
 ## Modeling and Results
 
